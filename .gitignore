@@ -1,0 +1,4 @@
+# we can also specify pattern
+# like if I want to ignore all files
+# in the conf folder
+fmnist/*
